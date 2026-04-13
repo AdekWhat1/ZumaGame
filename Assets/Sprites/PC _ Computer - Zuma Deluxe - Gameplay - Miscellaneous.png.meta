@@ -1,0 +1,917 @@
+fileFormatVersion: 2
+guid: ae56ef1d40cee8044924a6604d7e98d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2284199942353310929
+    second: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_0
+  - first:
+      213: -4676961625072481383
+    second: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_1
+  - first:
+      213: 6561222171243453138
+    second: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_2
+  - first:
+      213: 8110571660437992408
+    second: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_3
+  - first:
+      213: 9037886299654291297
+    second: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_4
+  - first:
+      213: -3807465185257982550
+    second: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_5
+  - first:
+      213: -1903138616860709844
+    second: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_6
+  - first:
+      213: 3743083485340699642
+    second: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1302
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b20103144ec40e0800000000000000
+      internalID: -2284199942353310929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bcb6d7e28181fb0800000000000000
+      internalID: -4676961625072481383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da12694dc42e0b50800000000000000
+      internalID: 6561222171243453138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3b1c914f98e8070800000000000000
+      internalID: 8110571660437992408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f734b64b50d6d70800000000000000
+      internalID: 9037886299654291297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 6
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5f70a369a292bc0800000000000000
+      internalID: -3807465185257982550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c60bfd281b695e0800000000000000
+      internalID: -1903138616860709844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb0d54299a12f330800000000000000
+      internalID: 3743083485340699642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1216
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372e997ca233d3a46b6e6e6e7c54ac1e
+      internalID: 261059556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1123
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f77a511bb36943a6713b84e18f0f5
+      internalID: 1919868467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1036
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a93649142bb4041aea33ab7f5bbf19
+      internalID: -340998559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 949
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca59bc8fcf93f7d4dbab3939b21e9981
+      internalID: -1142726030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 863
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eab44f6e5764024b8a3ecbd80047904
+      internalID: 1454988816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 775
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f7a7cfab57c24458ec5d2cc458749d
+      internalID: -642276308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 689
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b487fd1cfa598f945bd2998fa9734059
+      internalID: -2112797493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 598
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a19593ca7cc2342b3c408637c702e8
+      internalID: 1359966630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 504
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf37bf70fc4b2b48b75aabdec3e7929
+      internalID: 1609757212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 418
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8d6f03f3f65646b9acfde2e2b329e
+      internalID: 1304887808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1412
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401d080f86496774aa8c8e21e1e9f32f
+      internalID: 426342480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1332
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973f4d67e9a0f8d4f924ef9836d5cc1c
+      internalID: 2032837891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1254
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628ff5d19652474fb2b3f46d89d8715
+      internalID: 614970053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1172
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcd86294e5338942a0ad19c59508cec
+      internalID: -489147621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1090
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa4bf8a6f738494b9a3f1b36a5beff4
+      internalID: 357107697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1009
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a9365c52e759041937d4722fb21718
+      internalID: 1101476559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 926
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b406288ef9003469d274ba22a48fc6
+      internalID: -916865246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 846
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c716fbb6746b424bbece1b213440cbb
+      internalID: 334533057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 764
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae186a42540cc51499ddf99acb4fd245
+      internalID: -256863418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 687
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970a44f8a6dc5bc47a5312c876d2a49d
+      internalID: 189812019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 607
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad7ea9534be024ab8ec43b4d1199d0
+      internalID: 933795640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 528
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b756a79440de586439e40153b602a8fe
+      internalID: -2135791593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 452
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99af8ca933520e24d8ae23e88b96a606
+      internalID: -245701137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1394
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd43f794f0cdb4384eb9444bc5d8a2
+      internalID: 234105029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 333
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfe643464753904194e24c475271dd6
+      internalID: 2027270150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: caf07b065aeebc247af2ffbbcbd229c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_0: -2284199942353310929
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_1: -4676961625072481383
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_10: -340998559
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_11: -1142726030
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_12: 1454988816
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_13: -642276308
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_14: -2112797493
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_15: 1359966630
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_16: 1609757212
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_17: 1304887808
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_18: 426342480
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_19: 2032837891
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_2: 6561222171243453138
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_20: 614970053
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_21: -489147621
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_22: 357107697
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_23: 1101476559
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_24: -916865246
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_25: 334533057
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_26: -256863418
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_27: 189812019
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_28: 933795640
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_29: -2135791593
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_3: 8110571660437992408
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_30: -245701137
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_31: 234105029
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_32: 2027270150
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_4: 9037886299654291297
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_5: -3807465185257982550
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_6: -1903138616860709844
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_7: 3743083485340699642
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_8: 261059556
+      PC _ Computer - Zuma Deluxe - Gameplay - Miscellaneous_9: 1919868467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
