@@ -6,7 +6,7 @@ public class MainMenuManager : MonoBehaviour
     [Header("GitHub Settings")]
     [Header("Scene Settings")]
     [Tooltip("Точна назва сцени з твоєю грою")]
-    public string githubURL = "https://github.com/твій_логін/твій_проект";
+    public string githubURL = "https://github.com/AdekWhat1/ZumaGame";
     public string gameSceneName = "GameScene"; // <-- Тут має бути назва твоєї ігрової сцени!
 
     // Цю функцію ми підключимо до кнопки PLAY

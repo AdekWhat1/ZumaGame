@@ -68,5 +68,15 @@ public class SceneController : MonoBehaviour
     // Методи навігації
     public void StartGame() { Time.timeScale = 1f; SceneManager.LoadScene(1); }
     public void RestartGame() { Time.timeScale = 1f; SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); }
-    public void LoadMainMenu() { Time.timeScale = 1f; SceneManager.LoadScene("MainMenu"); }
+    public void LoadMainMenu()
+    {
+        Time.timeScale = 1f;
+
+        if (SoundManager.Instance != null)
+        {
+            SoundManager.Instance.StopMusic();
+        }
+
+        SceneManager.LoadScene("MainMenu");
+    }
 }
