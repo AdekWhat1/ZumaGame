@@ -79,4 +79,9 @@ public class SceneController : MonoBehaviour
 
         SceneManager.LoadScene("MainMenu");
     }
+    public void QuitGame()
+    {
+        Debug.Log("Вихід з гри..."); // Це для перевірки в консолі
+        Application.Quit(); // Ця команда закриває скомпільовану гру (.exe)
+    }
 }
